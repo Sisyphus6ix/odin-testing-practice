@@ -19,4 +19,6 @@ function calculator (a, operator, b) {
     return
 }
 
+console.log('HELLOOO')
+
 module.exports = calculator;
