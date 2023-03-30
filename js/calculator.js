@@ -1,4 +1,4 @@
-function calculator (a, operator, b) {
+function calculator(a, operator, b) {
     if (operator === '+'){
         let add = a + b
         return add
